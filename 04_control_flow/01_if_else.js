@@ -19,7 +19,7 @@ const temp = 41
             
 const balance = 100 
 // if (balance > 500) console.log("test"), console.log("Line 2 of if");  // bad practice to write code
-            
+
 // if (balance < 500){
 //     console.log("Lsss than 500")
 // } else if (balance < 750){
